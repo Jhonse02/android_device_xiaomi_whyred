@@ -30,9 +30,8 @@ TARGET_SUPPORTS_GOOGLE_RECORDER := true
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
-# Wallpapers
-PRODUCT_PACKAGES += \
-    PixelLiveWallpaperPrebuilt
+# Live Wallpapers
+TARGET_PIXEL_LWP := true
 
 # AOT Preload
 PRODUCT_DEXPREOPT_SPEED_APPS += \
