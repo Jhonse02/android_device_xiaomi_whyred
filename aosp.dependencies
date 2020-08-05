@@ -28,6 +28,12 @@
         "repository":   "Jhonse02/vendor_MiuiCamera",
         "target_path":  "vendor/MiuiCamera",
         "revision":     "10.x"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Jhonse02/vendor_dirac",
+        "target_path":  "vendor/dirac",
+        "revision":     "ten"
     }
 
 ]
