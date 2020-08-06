@@ -34,7 +34,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
    ro.sf.lcd_density=440
 
 #SoC
-PRODUCT_PROPERTY_OVERRIDES += \
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
    ro.processor.model=SD636
 
 # USB Debugging
