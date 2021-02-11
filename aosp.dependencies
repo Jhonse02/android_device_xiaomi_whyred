@@ -13,9 +13,9 @@
     },
     {
         "remote":       "github",
-        "repository":   "LineageOS/android_kernel_xiaomi_sdm660",
+        "repository":   "attack11/Whyred",
         "target_path":  "kernel/xiaomi/sdm660",
-        "revision":     "lineage-18.1"
+        "revision":     "extended"
     },
     {
         "remote":       "github",
