@@ -3,31 +3,31 @@
         "remote":       "github",
         "repository":   "Jhonse02/device_xiaomi_whyred",
         "target_path":  "device/xiaomi/whyred",
-        "revision":     "eleven"
+        "branch":     "eleven"
     },
     {
         "remote":       "github",
         "repository":   "Jhonse02/device_xiaomi_sdm660",
         "target_path":  "device/xiaomi/sdm660-common",
-        "revision":     "eleven"
+        "branch":     "eleven"
     },
     {
         "remote":       "github",
         "repository":   "attack11/Whyred",
         "target_path":  "kernel/xiaomi/sdm660",
-        "revision":     "extended"
+        "branch":     "extended"
     },
     {
         "remote":       "github",
         "repository":   "Jhonse02/vendor_xiaomi_whyred",
         "target_path":  "vendor/xiaomi",
-	"revision":	"eleven"
+	"branch":	"eleven"
     },
     {
         "remote":       "github",
         "repository":   "Jhonse02/vendor_MiuiCamera",
         "target_path":  "vendor/MiuiCamera",
-        "revision":     "10.x"
+        "branch":     "10.x"
     }
 
 ]
